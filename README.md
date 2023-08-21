@@ -1,4 +1,4 @@
 - 🔭 I’m currently working on data science.
-- 🌱 I’m currently learning demand forecasting and credit scoring techniques.
-- 👯 It'll be a pleasure to collaborate. 
+- 🌱 I’m learning demand forecasting, credit scoring techniques, statistcs and storytelling with data.
+- 👯 It'll be a pleasure to collaborate. Any questions, just contact me. ;0) 
 - 📫 How to reach me: elicianems@gmail.com
